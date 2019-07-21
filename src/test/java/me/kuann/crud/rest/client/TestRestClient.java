@@ -4,8 +4,6 @@ import java.util.Arrays;
 
 import org.junit.Test;
 
-import me.kuann.crud.rest.client.model.Employee;
-
 public class TestRestClient {
 
 	private static final String EMPLOYEE_SERVICE_URL = "http://kuann.free.beeceptor.com/demo";
